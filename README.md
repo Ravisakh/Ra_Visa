@@ -12,4 +12,4 @@ cd Ra_Visa
 
 
 
-python3 BY_ZA.py
+python3 Ra_Visa.py
