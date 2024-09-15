@@ -13,7 +13,7 @@ class Color:
     CYAN = '\033[96m'
     RESET = '\033[0m'
 
-class BSQLI:
+class BY_ZA:
     USER_AGENTS = [
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Version/14.1.2 Safari/537.36",
@@ -195,5 +195,5 @@ class BSQLI:
         print(f"{Color.CYAN}Thank you for using BY ZA tool!{Color.RESET}")
 
 if __name__ == "__main__":
-    scanner = BSQLI()
+    scanner = BY_ZA()
     scanner.main()
