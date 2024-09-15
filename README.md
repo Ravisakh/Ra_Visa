@@ -2,7 +2,7 @@ Like me
  how to install & របៀបតំឡើង
 
 
-git clone https://github.com/Ravisakh/Ra_Visa.gi
+git clone https://github.com/Ravisakh/Ra_Visa.git
 
 
 
